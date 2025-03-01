@@ -1,4 +1,4 @@
-# Login_Cypress_Teste
+# Login Cypress Teste
 
 Teste usando o Cypress Dashboard cadastrando um ID para gerar um Recording no CypressCloud. 
 
